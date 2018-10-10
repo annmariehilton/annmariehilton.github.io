@@ -1,0 +1,32 @@
+h1 {
+  color: red;
+  font-size:48px;
+}
+
+body {
+  font-size: 18px;
+  font-family: 'Hanalei', cursive;
+}
+
+article {
+  padding: 10px 60px;
+}
+
+img{
+  max-width: 100%;
+}
+
+.byline {
+  font-size: 17px;
+  font-family: 'Hanalei', cursive;
+}
+
+.dateline {
+  font-size: 15px;
+  color: gray;
+}
+
+figcaption {
+  font-size: 13px;
+  font-family: 'Hanalei', cursive;
+}
