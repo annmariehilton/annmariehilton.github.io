@@ -1,11 +1,10 @@
 h1 {
-  color: red;
   font-size:48px;
 }
 
 body {
   font-size: 18px;
-  font-family: 'Hanalei', cursive;
+  font-family: Helvetica;
 }
 
 article {
@@ -18,7 +17,7 @@ img{
 
 .byline {
   font-size: 17px;
-  font-family: 'Hanalei', cursive;
+  font-family: Helvetica;
 }
 
 .dateline {
@@ -28,5 +27,5 @@ img{
 
 figcaption {
   font-size: 13px;
-  font-family: 'Hanalei', cursive;
+  font-family: Helvetica;
 }
