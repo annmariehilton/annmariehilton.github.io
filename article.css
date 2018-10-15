@@ -1,15 +1,17 @@
 h1 {
-  color: red;
   font-size:48px;
+  color: white;
 }
 
 body {
-  font-size: 18px;
-  font-family: 'Hanalei', cursive;
+  font-size: 16px;
+  font-family: Helvetica;
+  color: white;
 }
 
 article {
-  padding: 10px 60px;
+  padding: 40px 60px;
+  background-color: black;
 }
 
 img{
@@ -17,16 +19,27 @@ img{
 }
 
 .byline {
-  font-size: 17px;
-  font-family: 'Hanalei', cursive;
+  font-size: 15px;
+  font-family: Helvetica;
 }
 
 .dateline {
-  font-size: 15px;
+  font-size: 13px;
   color: gray;
 }
 
 figcaption {
+  font-size: 11px;
+  font-family: Helvetica;
+}
+
+h5{
+  color: gray;
+}
+
+.contact{
+  font-style: italic;
   font-size: 13px;
-  font-family: 'Hanalei', cursive;
+  color: gray;
+  line-height: 1.2;
 }
