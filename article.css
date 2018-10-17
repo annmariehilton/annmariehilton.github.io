@@ -1,6 +1,9 @@
 h1 {
-  font-size:48px;
+  font-size:60px;
   color: white;
+  /*font-family: 'Overpass', sans-serif;*/
+  font-weight: bold;
+  font-family: 'Lusitana', serif;
 }
 
 body {
